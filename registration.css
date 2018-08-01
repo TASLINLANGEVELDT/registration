@@ -1,0 +1,49 @@
+.Container{
+  background: #ffcccc;
+}
+
+.header{
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+
+.row.head{
+  text-align: center;
+  font-size: 20px;
+}
+
+.nameInput{
+  width: 300px;
+  height: 40px;
+  text-align: center;
+}
+
+.input.eng{
+  text-align: center;
+}
+
+.btnreg{
+  width: 130px;
+  height: 35px;
+  background-color: gray;
+  border-radius: 8px;
+}
+
+.button{
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.reg.imput{
+  border-style: outset;
+}
+
+.respones{
+  text-align: center;
+  font-size: 20px;
+  font-style: oblique;
+}
